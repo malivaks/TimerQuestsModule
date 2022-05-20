@@ -1,0 +1,9 @@
+name: ${name}
+author: malivaks
+description: Timer operation extensions for Quests plugin
+
+api-version: 1.13
+version: ${version}
+
+main: io.malivaks.tqm
+depend: [Quests]
